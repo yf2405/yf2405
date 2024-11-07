@@ -85,7 +85,6 @@
 
 <br/>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
 
